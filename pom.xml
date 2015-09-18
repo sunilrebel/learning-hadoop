@@ -6,14 +6,32 @@
 
     <groupId>com.datametica.learning</groupId>
     <artifactId>HelloWorldDurga</artifactId>
-    <version>RELEASE-15.5.0</version>
+    <version>1.0.0</version>
 
     <dependencies>
         <dependency>
             <groupId>org.apache.hadoop</groupId>
             <artifactId>hadoop-core</artifactId>
-            <version>0.20.2</version>
+            <version>1.2.1</version>
         </dependency>
     </dependencies>
+
+    <build>
+        <plugins>
+            <plugin>
+                <artifactId>maven-assembly-plugin</artifactId>
+                <configuration>
+                    <archive>
+                        <manifest>
+                            <mainClass>com.datametica.learning.hadoop.WordCount</mainClass>
+                        </manifest>
+                    </archive>
+                    <descriptorRefs>
+                        <descriptorRef>jar-with-dependencies</descriptorRef>
+                    </descriptorRefs>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
 
 </project>
