@@ -1,4 +1,4 @@
-package com.datametica.learning.hadoop;
+package io.spann.learning.hadoop;
 
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.LongWritable;
