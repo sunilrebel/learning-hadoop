@@ -1,4 +1,4 @@
-package io.spann.learning.hadoop.p1;
+package io.spann.learning.hadoop.p1.maxtemp;
 
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.io.IntWritable;

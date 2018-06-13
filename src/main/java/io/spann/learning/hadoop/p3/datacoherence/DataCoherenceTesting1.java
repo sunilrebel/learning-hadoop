@@ -1,4 +1,4 @@
-package io.spann.learning.hadoop.p3;
+package io.spann.learning.hadoop.p3.datacoherence;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.FileSystem;

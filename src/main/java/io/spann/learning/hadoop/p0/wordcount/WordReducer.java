@@ -1,4 +1,4 @@
-package io.spann.learning.hadoop;
+package io.spann.learning.hadoop.p0.wordcount;
 
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.Text;

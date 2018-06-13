@@ -1,4 +1,4 @@
-package io.spann.learning.hadoop.p2;
+package io.spann.learning.hadoop.p2.copyfiles;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.FileSystem;
