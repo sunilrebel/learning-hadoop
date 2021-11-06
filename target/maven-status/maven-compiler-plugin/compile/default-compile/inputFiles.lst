@@ -1,0 +1,12 @@
+/Users/deepti/sunil/projects/learning-hadoop/src/main/java/io/spann/learning/hadoop/p2/copyfiles/CopyFileToHDFS.java
+/Users/deepti/sunil/projects/learning-hadoop/src/main/java/io/spann/learning/hadoop/p1/maxtemp/MaxTemp.java
+/Users/deepti/sunil/projects/learning-hadoop/src/main/java/io/spann/learning/hadoop/p1/maxtemp/MaxTempMapper.java
+/Users/deepti/sunil/projects/learning-hadoop/src/main/java/io/spann/learning/hadoop/p0/wordcount/WordReducer.java
+/Users/deepti/sunil/projects/learning-hadoop/src/main/java/io/spann/learning/hadoop/p4/compression/SimpleCompression.java
+/Users/deepti/sunil/projects/learning-hadoop/src/main/java/io/spann/learning/hadoop/p3/datacoherence/DataCoherenceTesting1.java
+/Users/deepti/sunil/projects/learning-hadoop/src/main/java/io/spann/learning/hadoop/p2/copyfiles/PrintFileFromHDFS.java
+/Users/deepti/sunil/projects/learning-hadoop/src/main/java/io/spann/learning/hadoop/p4/compression/CodecFactoryExample.java
+/Users/deepti/sunil/projects/learning-hadoop/src/main/java/io/spann/learning/hadoop/p3/datacoherence/DataCoherenceTesting2.java
+/Users/deepti/sunil/projects/learning-hadoop/src/main/java/io/spann/learning/hadoop/p0/wordcount/WordMapper.java
+/Users/deepti/sunil/projects/learning-hadoop/src/main/java/io/spann/learning/hadoop/p0/wordcount/WordCount.java
+/Users/deepti/sunil/projects/learning-hadoop/src/main/java/io/spann/learning/hadoop/p1/maxtemp/MaxTempReducer.java

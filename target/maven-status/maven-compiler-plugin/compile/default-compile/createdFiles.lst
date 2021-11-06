@@ -1,0 +1,13 @@
+io/spann/learning/hadoop/p0/wordcount/WordReducer.class
+io/spann/learning/hadoop/p1/maxtemp/MaxTempMapper.class
+io/spann/learning/hadoop/p2/copyfiles/CopyFileToHDFS.class
+io/spann/learning/hadoop/p0/wordcount/WordCount.class
+io/spann/learning/hadoop/p3/datacoherence/DataCoherenceTesting1.class
+io/spann/learning/hadoop/p1/maxtemp/MaxTempReducer.class
+io/spann/learning/hadoop/p4/compression/SimpleCompression.class
+io/spann/learning/hadoop/p2/copyfiles/CopyFileToHDFS$1.class
+io/spann/learning/hadoop/p3/datacoherence/DataCoherenceTesting2.class
+io/spann/learning/hadoop/p1/maxtemp/MaxTemp.class
+io/spann/learning/hadoop/p0/wordcount/WordMapper.class
+io/spann/learning/hadoop/p4/compression/CodecFactoryExample.class
+io/spann/learning/hadoop/p2/copyfiles/PrintFileFromHDFS.class

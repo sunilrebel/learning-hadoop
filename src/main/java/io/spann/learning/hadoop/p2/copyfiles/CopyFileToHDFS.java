@@ -11,8 +11,8 @@ import java.net.URI;
 
 public class CopyFileToHDFS {
     public static void main(String[] args) throws IOException {
-        String sourceFilePath = "/video/ep01/IMG_7365.MOV";
-        String destinationFolder = "hdfs://quickstart.cloudera:8020/sunil/hdfs/copyviaprogram/mymovie.mov";
+        String sourceFilePath = "/Users/deepti/sunil/learning/traininglearning/ml-100k/u.user";
+        String destinationFolder = "hdfs://sandbox-hdp.hortonworks.com:8020/user/admin/work/ml-100k/u.user";
 
         InputStream in = new BufferedInputStream(new FileInputStream(sourceFilePath));
 

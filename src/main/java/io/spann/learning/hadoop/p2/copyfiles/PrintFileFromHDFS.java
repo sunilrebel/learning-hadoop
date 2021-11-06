@@ -12,7 +12,7 @@ import java.net.URI;
 public class PrintFileFromHDFS {
 
     public static void main(String[] args) throws IOException {
-        String uri = "hdfs://quickstart.cloudera:8020/sunil/myfile.txt";
+        String uri = "hdfs://sandbox:8020/user/admin/work/ml-100k/u.item";
         Configuration conf = new Configuration();
 //        conf.set("yarn.resourcemanager.address", "quickstart.cloudera:8050"); // see step 3
 //        conf.set("mapreduce.framework.name", "yarn");

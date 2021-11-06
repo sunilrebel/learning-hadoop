@@ -1,0 +1,2 @@
+ratings: {userID: int,movieID: int,rating: int,ratingTime: int}
+ratingsByMovie: {group: int,ratings: {(userID: int,movieID: int,rating: int,ratingTime: int)}} avgRatings: {movieID: int,avgRating: double}
